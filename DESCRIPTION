@@ -1,0 +1,14 @@
+Package: funcuse
+Type: Package
+Title: I can include my solutions in my lecture notes
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Stephan Huber <stephan.huber@hs-fresenius.de>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    pacman
+RoxygenNote: 7.3.1
